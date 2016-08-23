@@ -1,3 +1,7 @@
-Começando com Git e GitHub por @caio_gondim 
+# node_cal
 
-Devs pelo leokz
+Essa é uma aplicação simples para começar a estudar/trabalhar com `Git` e `GitHub` apresentado pelo [Caio Gondim](https://github.com/caiogondim).
+
+> Devs pelo leokz
+>
+> ~ http://leokz.com/campanha/
